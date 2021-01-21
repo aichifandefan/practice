@@ -1,4 +1,2 @@
-ddsddxdsd
-sdsdsd
-asddsd
-
+import tensorflow as tf
+tf.__version__
